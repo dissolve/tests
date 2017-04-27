@@ -10,7 +10,8 @@
                     "name": ["W3C"],
                     "photo": ["http://www.w3.org/Icons/WWW/w3c_home_nb.png"],
                     "url": ["http://www.w3.org/"]
-                }
+                },
+                "value": "W3C"
             }]
         }
     }],
